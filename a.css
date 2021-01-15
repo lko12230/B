@@ -1,0 +1,71 @@
+body{
+	
+    background-image: url('t18.jpg');
+  background-size:cover;
+  background-repeat: no-repeat;
+   
+   }
+  
+    
+ 
+ .header1{
+   top:10px;
+position:fixed;
+width:100%;
+height:70px;
+background:#142170;
+left:0;
+top:0;
+margin:auto;
+z-index:7;
+
+}
+
+
+
+
+
+#profilearea{top:0px;
+left:50px;
+height:30px;
+font-size:15px;
+font-family:verdana;
+}
+
+#profilearea1{top:0px;
+ left:1150px;
+ height:20px;
+ font-size:18px;
+ font-family:verdana;
+ }
+ #profilearea2{top:0px;
+ left:1240px;
+ height:20px;
+  font-size:18px;
+ font-family:verdana;
+ }
+ #profilearea3{top:0px;
+ left:1375px;
+ height:20px;
+ font-size:18px;
+ font-family:verdana;
+ }
+ #profilearea4{top:0px;
+ left:1475px;
+ height:20px;
+ font-size:18px;
+ font-family:verdana;
+ }
+ 
+ #profilearea5{top:0px;
+  left:920px;
+  height:20px;
+  font-size:18px;
+  font-family:verdana;
+  }
+  #profilearea6{top:0px;
+    left:1010px;
+    height:20px;
+    font-size:18px;
+    font-family:verdana;
+    }
